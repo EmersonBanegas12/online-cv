@@ -1,0 +1,6 @@
+_site/
+.sass-cache/
+.jekkyll-metadata
+.jekkyll-cache 
+Gemfile
+Gemfile.lock
