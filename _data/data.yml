@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Emerson J. Banegas
     tagline: Tecnico en Informatica
-    avatar:   #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar:   #place a 100x100 picture inside /assets/images folder and provide the name of the file below
 
     # Sidebar links
     email: jafetbanegas12@gmail.com
@@ -51,39 +51,29 @@ education:
 experiences:
     - role: Senior Software Engineer
       time: sep.2022 -act.
-      company: LMH, Hondurasf
+      company: LMH, Honduras
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+1 Conocimiento sobre Licencias de software.
+2 Dominar lenguajes de programación.
+3 Idiomas.
+4 Competencias en Sistemas Operativos.
+5 Herramientas de gestión de equipos de trabajo.
+6 Gestión de los equipos de trabajo.
+7 Documentación.
+8 Seguridad
+        
     
 
 
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
+    
+      - title: MARKETING DIGITAL
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        authors: GOOGLE ACTIVATE
+        Id: F8J 8VG JET
+     
 
 skills:
     title: Habilidades Tecnicas 
