@@ -37,14 +37,16 @@ sidebar:
 
 career-profile:
     title: Perfil Profesional
-    summary: |Soy un tecnico en Informatica Con muchas habilidades como Creatividad Me gusta que las cosas salgan siempre de lo mejor Y
-    considero que me desempeño bien trabajando en equipo.
+    summary: |
+      Soy un tecnico en Informatica Con muchas habilidades como Creatividad Me gusta que las cosas salgan siempre de lo mejor Y
+      considero que me desempeño bien trabajando en equipo.
 
 education:
     - degree: Bachiller Tecnico Profesional en infromatica 
       university: Liceo Militar de Honduras
       time: 2020 - 2022
-      details: |El Liceo Militar del Norte es una escuela militar creada por las Fuerzas Armadas de Honduras. Originalmente fundada
+      details: |
+      El Liceo Militar del Norte es una escuela militar creada por las Fuerzas Armadas de Honduras. Originalmente fundada
       como una institución de educación secundaria, con las metas de proveer la mejor educación académica y militar a jóvenes que al graduarse, 
       obtendrán grado de Subteniente de Reserva.
       
